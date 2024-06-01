@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweet Message</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .message-box {
+            text-align: center;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .message-box h1 {
+            color: #e74c3c;
+            margin-bottom: 20px;
+        }
+        .message-box p {
+            color: #2c3e50;
+        }
+    </style>
+</head>
+<body>
+    <div class="message-box">
+        <h1>Hello, Beautiful!</h1>
+        <p>I want you to know that you are on my mind. There's no single day that I don't think and look forward to talking to you since we started talking. I enjoy hearing you laugh because, damn, you have such a contagious voice and laugh. Have a wonderful day.</p>
+        <p>Yours (Gray)</p>
+        <p>Mine (Nthabeleng)</p>
+    </div>
+</body>
+</html>
